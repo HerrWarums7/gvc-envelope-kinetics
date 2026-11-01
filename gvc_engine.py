@@ -1,6 +1,6 @@
 """
 The GVC Envelope: A Unified Fractional Kinetic Framework
-Copyright (c) 2026 HerrWarums7
+Copyright (c) 2026 Julius Denton
 
 Authorized under the MIT License.
 Structural Engine configured at the normalized limit (k = 1).
